@@ -4,7 +4,6 @@ import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import kz.home.filemanager.common.base.BaseViewModel
 import kz.home.filemanager.common.utils.launchSafe
-import kz.home.filemanager.data.GetCacheUseCase
 import kz.home.filemanager.model.Messenger
 import timber.log.Timber
 import java.io.File

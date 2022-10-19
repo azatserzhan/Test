@@ -1,8 +1,9 @@
-package kz.home.filemanager.data
+package kz.home.filemanager.viewmodel
 
 import kotlinx.coroutines.CoroutineDispatcher
 import kotlinx.coroutines.Dispatchers
 import kz.home.filemanager.common.base.UseCase
+import kz.home.filemanager.data.FileContract
 import kz.home.filemanager.model.Messenger
 import java.io.File
 

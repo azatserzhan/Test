@@ -2,7 +2,7 @@ package kz.home.filemanager
 
 import kz.home.filemanager.data.FileApi
 import kz.home.filemanager.data.FileContract
-import kz.home.filemanager.data.GetCacheUseCase
+import kz.home.filemanager.viewmodel.GetCacheUseCase
 import kz.home.filemanager.model.InjectionModule
 import kz.home.filemanager.viewmodel.FileViewModel
 import org.koin.androidx.viewmodel.dsl.viewModel
