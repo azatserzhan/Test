@@ -1,7 +1,9 @@
-# Android File Manager sample
+# App can show cache some social app (Telegram, Whatsapp, etc)
 
-This sample demonstrates how to create a simple File Manager application working from
-API 19 (KitKat) to API 30 (Android 11).
+Language Kotlin
+• Clean arc, MVVM
+• Target sdk: 32
+• Min sdk: 21
 
 ## Requirements
 
